@@ -2,12 +2,6 @@
 
 ---
 
-### Links
-- [AWS Services](https://www.youtube.com/watch?v=FDEpdNdFglI)
-- [IAM](https://www.youtube.com/watch?v=_ZCTvmaPgao)
-
----
-
 ![AWS Services](architecture.png)
 
 ---
@@ -26,8 +20,8 @@
   - Use the least privilege model
   - Effect "Deny" wins over "allow"   
 
-[IAM](https://www.youtube.com/watch?v=_ZCTvmaPgao)
-
 ---
 
-
+### Links
+- [AWS Services](https://www.youtube.com/watch?v=FDEpdNdFglI)
+- [IAM](https://www.youtube.com/watch?v=_ZCTvmaPgao)
