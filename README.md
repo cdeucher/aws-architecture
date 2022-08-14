@@ -4,6 +4,8 @@
 
 ![AWS Services](architecture.png)
 
+[AWS Services](https://www.youtube.com/watch?v=FDEpdNdFglI)
+
 ---
 ### IAM (Identity and Access Management)
 - Policy
@@ -20,6 +22,9 @@
   - Use the least privilege model
   - Effect "Deny" wins over "allow"   
 
+
+[IAM](https://www.youtube.com/watch?v=_ZCTvmaPgao)
+
 ---
 ### VPC Networking
 
@@ -31,6 +36,7 @@
 - ELB
 - NAT
 
+[VPC](https://www.youtube.com/watch?v=XZbvQWkpJTI)
 
 ---
 
