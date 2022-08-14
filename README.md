@@ -25,6 +25,13 @@
 
 ![VPC](vpc.png)
 
+- Region
+- Router
+- SubNets
+- ELB
+- NAT
+
+
 ---
 
 ### Links
