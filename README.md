@@ -1,3 +1,5 @@
 # aws-architecture
 
-[AWS Services](architecture.png)
+
+# AWS Services
+![AWS Services](architecture.png)
