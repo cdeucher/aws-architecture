@@ -21,7 +21,13 @@
   - Effect "Deny" wins over "allow"   
 
 ---
+### VPC Networking
+
+![VPC](vpc.png)
+
+---
 
 ### Links
 - [AWS Services](https://www.youtube.com/watch?v=FDEpdNdFglI)
 - [IAM](https://www.youtube.com/watch?v=_ZCTvmaPgao)
+- [VPC](https://www.youtube.com/watch?v=XZbvQWkpJTI)
